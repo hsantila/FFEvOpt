@@ -1,0 +1,11 @@
+#include "lipid.itp"
+#include "WAT.itp"
+
+[ system ]
+; Name
+POPC - 34 lipids & 30 H2O/lipid
+
+[ molecules ]
+; Compound	#mols
+POPC		34
+WAT		1020

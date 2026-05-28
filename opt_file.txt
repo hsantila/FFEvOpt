@@ -1,0 +1,35 @@
+#opt_sigma opt_dihed index
+yes no 1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27
+yes no 28	29	30	31	32	33	34	35
+yes no 36	37	38	39	40	41	42	43	44
+yes no	45	46	47	
+yes no	48	49	50	
+yes no	51	52	53	
+yes no	54	55	56	
+yes no	57	58	59	
+yes no	60	61	62	
+yes no	63	64		
+yes no	65	66		
+yes no	67	68	69	
+yes no	70	71	72	
+yes no	73	74	75	
+yes no	76	77	78	
+yes no	79	80	81	
+yes no	82	83	84	
+yes no	85	86	87	
+yes no	88	89	90	91
+yes no	92	93	94	
+yes no	95	96	97	
+yes no	98	99	100	
+yes no	101	102	103	
+yes no	104	105	106	
+yes no	107	108	109	
+yes no	110	111	112	
+yes no	113	114	115	
+yes no	116	117	118	
+yes no	119	120	121	
+yes no	122	123	124	
+yes no	125	126	127	
+yes no	128	129	130	
+yes no	131	132	133	134
+
